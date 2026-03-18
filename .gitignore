@@ -1,4 +1,4 @@
-# Секретные файлы — НИКОГДА не загружать!
+# Secrets
 local.properties
 google-services.json
 *.jks
