@@ -1,19 +1,29 @@
-# Secrets
+# Секретные файлы — НИКОГДА не загружать!
 local.properties
 google-services.json
 *.jks
 *.keystore
 
-# Build
-.gradle/
-build/
-app/build/
-
-# IDE
+# IDE файлы
 .idea/
 *.iml
 .DS_Store
+Thumbs.db
+
+# Gradle build файлы
+.gradle/
+build/
+app/build/
+**/build/
 
 # Android
 *.apk
 *.aab
+*.dex
+
+# Тестовые отчёты
+app/src/test/
+app/src/androidTest/
+
+# Room схемы (опционально)
+# app/schemas/
