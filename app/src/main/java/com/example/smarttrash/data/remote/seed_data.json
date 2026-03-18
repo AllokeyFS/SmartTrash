@@ -1,0 +1,124 @@
+{
+  "waste_items": [
+    {
+      "name": "Plastic Bottle",
+      "category": "Plastic",
+      "instructions": "Rinse thoroughly, remove cap, crush to save space. Deposit in yellow recycling bin."
+    },
+    {
+      "name": "Glass Jar",
+      "category": "Glass",
+      "instructions": "Rinse clean, remove metal lids. Do not break. Place in green glass container."
+    },
+    {
+      "name": "Newspaper",
+      "category": "Paper",
+      "instructions": "Keep dry. Remove any plastic wrapping. Bundle together with string."
+    },
+    {
+      "name": "Cardboard Box",
+      "category": "Paper",
+      "instructions": "Flatten completely. Remove all tape and staples. Keep dry."
+    },
+    {
+      "name": "Aluminum Can",
+      "category": "Metal",
+      "instructions": "Rinse clean, crush if possible. Place in yellow recycling bin."
+    },
+    {
+      "name": "Battery (AA/AAA)",
+      "category": "Hazardous",
+      "instructions": "NEVER put in regular trash. Take to designated battery collection point at electronics stores."
+    },
+    {
+      "name": "Food Scraps",
+      "category": "Organic",
+      "instructions": "Place in brown organic waste bin. No meat or dairy in home composting."
+    },
+    {
+      "name": "Styrofoam Cup",
+      "category": "Plastic",
+      "instructions": "Cannot be recycled in most areas. Place in general waste. Avoid using."
+    },
+    {
+      "name": "Wine Bottle",
+      "category": "Glass",
+      "instructions": "Rinse clean, remove cork. Deposit at glass recycling bank."
+    },
+    {
+      "name": "Mobile Phone",
+      "category": "Hazardous",
+      "instructions": "Take to electronics store or e-waste collection point. Wipe data first."
+    },
+    {
+      "name": "Pizza Box",
+      "category": "Paper",
+      "instructions": "If heavily greasy — general waste. If clean — flatten and recycle."
+    },
+    {
+      "name": "Tin Can",
+      "category": "Metal",
+      "instructions": "Rinse clean. Both ends can remain attached. Place in yellow recycling bin."
+    },
+    {
+      "name": "Yogurt Container",
+      "category": "Plastic",
+      "instructions": "Rinse clean. Check for recycling symbol. Place in yellow recycling bin."
+    },
+    {
+      "name": "Light Bulb (LED)",
+      "category": "Hazardous",
+      "instructions": "Take to hardware store recycling point. Do not put in general waste."
+    },
+    {
+      "name": "Apple Core",
+      "category": "Organic",
+      "instructions": "Place in brown organic bin or home compost pile."
+    }
+  ],
+
+  "recycling_bins": [
+    {
+      "address": "Budapest, Deák Ferenc tér 1",
+      "latitude": 47.4986,
+      "longitude": 19.0530,
+      "acceptedTypes": ["Plastic", "Glass", "Paper", "Metal"]
+    },
+    {
+      "address": "Budapest, Keleti pályaudvar",
+      "latitude": 47.5001,
+      "longitude": 19.0839,
+      "acceptedTypes": ["Plastic", "Paper"]
+    },
+    {
+      "address": "Budapest, Margit sziget észak",
+      "latitude": 47.5268,
+      "longitude": 19.0497,
+      "acceptedTypes": ["Plastic", "Glass", "Organic"]
+    },
+    {
+      "address": "Budapest, Blaha Lujza tér",
+      "latitude": 47.4953,
+      "longitude": 19.0713,
+      "acceptedTypes": ["Plastic", "Metal", "Paper"]
+    },
+    {
+      "address": "Budapest, Városliget főbejárat",
+      "latitude": 47.5146,
+      "longitude": 19.0808,
+      "acceptedTypes": ["Plastic", "Glass", "Paper", "Organic"]
+    },
+    {
+      "address": "Budapest, Móricz Zsigmond körtér",
+      "latitude": 47.4773,
+      "longitude": 19.0444,
+      "acceptedTypes": ["Plastic", "Glass", "Metal"]
+    },
+    {
+      "address": "Budapest, Boráros tér HÉV",
+      "latitude": 47.4834,
+      "longitude": 19.0652,
+      "acceptedTypes": ["Hazardous", "Metal", "Glass"]
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- App -->
+    <string name="app_name">Smart Trash Sorter</string>
+    <string name="app_tagline">Sort smarter. Recycle better.\nFor a greener Budapest. 🌿</string>
+
+    <!-- Home Screen -->
+    <string name="home_title">Smart Trash\nSorter</string>
+    <string name="home_search_title">Search Waste Items</string>
+    <string name="home_search_desc">Find out how to sort any waste item.\nSmart search with typo correction.</string>
+    <string name="home_map_title">Find Recycling Bins</string>
+    <string name="home_map_desc">Locate recycling bins within 5km\nof your current location.</string>
+    <string name="home_scan_title">Scan Barcode</string>
+    <string name="home_scan_desc">Scan product barcode to find out\nhow to sort its materials.</string>
+
+    <!-- Search Screen -->
+    <string name="search_title">Search Waste</string>
+    <string name="search_placeholder">Search waste items… (typos ok!)</string>
+    <string name="search_items_found">%d items found</string>
+    <string name="search_no_results">No results for "%s"</string>
+    <string name="search_empty_db">No items in database yet</string>
+    <string name="search_try_spelling">Try checking the spelling</string>
+    <string name="search_syncing">☁️ Syncing with cloud…</string>
+    <string name="search_offline">⚠️ Offline mode</string>
+
+    <!-- Categories -->
+    <string name="category_all">All</string>
+    <string name="category_plastic">Plastic</string>
+    <string name="category_glass">Glass</string>
+    <string name="category_organic">Organic</string>
+    <string name="category_paper">Paper</string>
+    <string name="category_metal">Metal</string>
+    <string name="category_hazardous">Hazardous</string>
+
+    <!-- Detail Screen -->
+    <string name="detail_how_to_dispose">How to dispose</string>
+    <string name="detail_find_bin">🗺️ Find nearest %s bin</string>
+
+    <!-- Map Screen -->
+    <string name="map_title">♻️ Recycling Bins Map</string>
+    <string name="map_finding_location">Finding your location…</string>
+    <string name="map_bins_found">📍 %d bins within %d km</string>
+    <string name="map_tap_marker">Tap a marker for details</string>
+    <string name="map_radius">Radius: %d km</string>
+    <string name="map_permission_title">Location Access Required</string>
+    <string name="map_permission_desc">We need your location to find\nrecycling bins near you.</string>
+    <string name="map_grant_permission">Grant Location Permission</string>
+    <string name="map_navigate">🚶 Navigate</string>
+    <string name="map_close">Close</string>
+    <string name="map_accepts">Accepts:</string>
+
+    <!-- Barcode Screen -->
+    <string name="barcode_title">📷 Scan Barcode</string>
+    <string name="barcode_point_camera">Point camera at barcode</string>
+    <string name="barcode_looking_up">Looking up barcode…</string>
+    <string name="barcode_contains">Contains %d material(s):</string>
+    <string name="barcode_not_found">Product not found</string>
+    <string name="barcode_not_in_db">Barcode: %s\nNot in database.</string>
+    <string name="barcode_scan_another">📷 Scan Another Item</string>
+    <string name="barcode_find_bin">Find Bin</string>
+    <string name="barcode_try_again">Try Again</string>
+    <string name="barcode_no_internet">No internet connection</string>
+    <string name="barcode_camera_permission">Camera permission required</string>
+    <string name="barcode_grant_camera">Grant Permission</string>
+
+    <!-- Settings Screen -->
+    <string name="settings_title">⚙️ Settings</string>
+    <string name="settings_appearance">🎨 Appearance</string>
+    <string name="settings_theme">Theme</string>
+    <string name="settings_theme_dark">🌙 Dark</string>
+    <string name="settings_theme_light">☀️ Light</string>
+    <string name="settings_theme_system">📱 System default</string>
+    <string name="settings_language">🌍 Language</string>
+    <string name="settings_notifications">🔔 Notifications</string>
+    <string name="settings_notif_title">Waste collection reminders</string>
+    <string name="settings_notif_desc">Get notified on collection days</string>
+    <string name="settings_about">ℹ️ About</string>
+    <string name="settings_version">App version</string>
+    <string name="settings_developer">Developer</string>
+
+    <!-- Common -->
+    <string name="btn_retry">Retry</string>
+    <string name="btn_back">Back</string>
+    <string name="loading">Loading…</string>
+</resources>

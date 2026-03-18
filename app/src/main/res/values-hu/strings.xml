@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- App -->
+    <string name="app_name">Okos Hulladék Válogató</string>
+    <string name="app_tagline">Válogass okosabban. Recyclelj jobban.\nEgy zöldebb Budapestért. 🌿</string>
+
+    <!-- Home Screen -->
+    <string name="home_title">Okos Hulladék\nVálogató</string>
+    <string name="home_search_title">Hulladék keresése</string>
+    <string name="home_search_desc">Tudd meg hogyan válogasd a hulladékot.\nOkos keresés elírás-toleranciával.</string>
+    <string name="home_map_title">Gyűjtőpont keresése</string>
+    <string name="home_map_desc">Találj gyűjtőpontokat 5 km-en belül\na jelenlegi tartózkodási helyed közelében.</string>
+    <string name="home_scan_title">Vonalkód beolvasása</string>
+    <string name="home_scan_desc">Olvasd be a termék vonalkódját\na csomagolás anyagainak meghatározásához.</string>
+
+    <!-- Search Screen -->
+    <string name="search_title">Hulladék keresése</string>
+    <string name="search_placeholder">Hulladék keresése… (elírás is oké!)</string>
+    <string name="search_items_found">%d elem találva</string>
+    <string name="search_no_results">Nincs találat: "%s"</string>
+    <string name="search_empty_db">Az adatbázis még üres</string>
+    <string name="search_try_spelling">Ellenőrizd a helyesírást</string>
+    <string name="search_syncing">☁️ Szinkronizálás…</string>
+    <string name="search_offline">⚠️ Offline mód</string>
+
+    <!-- Categories -->
+    <string name="category_all">Összes</string>
+    <string name="category_plastic">Műanyag</string>
+    <string name="category_glass">Üveg</string>
+    <string name="category_organic">Szerves</string>
+    <string name="category_paper">Papír</string>
+    <string name="category_metal">Fém</string>
+    <string name="category_hazardous">Veszélyes</string>
+
+    <!-- Detail Screen -->
+    <string name="detail_how_to_dispose">Hogyan dobd ki</string>
+    <string name="detail_find_bin">🗺️ Legközelebbi %s gyűjtő keresése</string>
+
+    <!-- Map Screen -->
+    <string name="map_title">♻️ Gyűjtőpontok térképe</string>
+    <string name="map_finding_location">Helymeghatározás…</string>
+    <string name="map_bins_found">📍 %d gyűjtőpont %d km-en belül</string>
+    <string name="map_tap_marker">Koppints a jelölőre a részletekért</string>
+    <string name="map_radius">Sugár: %d km</string>
+    <string name="map_permission_title">Helyhozzáférés szükséges</string>
+    <string name="map_permission_desc">A helyadatod szükséges a közeli\ngyűjtőpontok megtalálásához.</string>
+    <string name="map_grant_permission">Engedély megadása</string>
+    <string name="map_navigate">🚶 Útvonal</string>
+    <string name="map_close">Bezárás</string>
+    <string name="map_accepts">Elfogadott anyagok:</string>
+
+    <!-- Barcode Screen -->
+    <string name="barcode_title">📷 Vonalkód beolvasása</string>
+    <string name="barcode_point_camera">Irányítsd a kamerát a vonalkódra</string>
+    <string name="barcode_looking_up">Vonalkód keresése…</string>
+    <string name="barcode_contains">%d anyag(ok):</string>
+    <string name="barcode_not_found">Termék nem található</string>
+    <string name="barcode_not_in_db">Vonalkód: %s\nNincs az adatbázisban.</string>
+    <string name="barcode_scan_another">📷 Másik termék beolvasása</string>
+    <string name="barcode_find_bin">Gyűjtő keresése</string>
+    <string name="barcode_try_again">Próbáld újra</string>
+    <string name="barcode_no_internet">Nincs internetkapcsolat</string>
+    <string name="barcode_camera_permission">Kamera engedély szükséges</string>
+    <string name="barcode_grant_camera">Engedély megadása</string>
+
+    <!-- Settings Screen -->
+    <string name="settings_title">⚙️ Beállítások</string>
+    <string name="settings_appearance">🎨 Megjelenés</string>
+    <string name="settings_theme">Téma</string>
+    <string name="settings_theme_dark">🌙 Sötét</string>
+    <string name="settings_theme_light">☀️ Világos</string>
+    <string name="settings_theme_system">📱 Rendszer alapértelmezett</string>
+    <string name="settings_language">🌍 Nyelv</string>
+    <string name="settings_notifications">🔔 Értesítések</string>
+    <string name="settings_notif_title">Hulladékszállítási emlékeztetők</string>
+    <string name="settings_notif_desc">Értesítés a szállítási napokon</string>
+    <string name="settings_about">ℹ️ Az alkalmazásról</string>
+    <string name="settings_version">Verzió</string>
+    <string name="settings_developer">Fejlesztő</string>
+
+    <!-- Common -->
+    <string name="btn_retry">Újra</string>
+    <string name="btn_back">Vissza</string>
+    <string name="loading">Betöltés…</string>
+</resources>
