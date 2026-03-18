@@ -1,15 +1,29 @@
-*.iml
-.gradle
-/local.properties
-/.idea/caches
-/.idea/libraries
-/.idea/modules.xml
-/.idea/workspace.xml
-/.idea/navEditor.xml
-/.idea/assetWizardSettings.xml
-.DS_Store
-/build
-/captures
-.externalNativeBuild
-.cxx
+# Секретные файлы — НИКОГДА не загружать!
 local.properties
+google-services.json
+*.jks
+*.keystore
+
+# IDE файлы
+.idea/
+*.iml
+.DS_Store
+Thumbs.db
+
+# Gradle build файлы
+.gradle/
+build/
+app/build/
+**/build/
+
+# Android
+*.apk
+*.aab
+*.dex
+
+# Тестовые отчёты
+app/src/test/
+app/src/androidTest/
+
+# Room схемы (опционально)
+# app/schemas/
